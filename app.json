@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Swing V23.7 RA/RB",
+    "slug": "swing-v23-7",
+    "version": "23.7.0",
+    "orientation": "portrait",
+    "platforms": [
+      "android"
+    ],
+    "android": {
+      "package": "com.antonio.swingv23"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
